@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ze-vi-1531877436506",
+  "private_key_id": "24af3c615402744da4870d090d3411c140ef8097",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCk9uVBFIQerqCn\nZ3zHPBv6YIW2PwSW/XNYj8blRN8N5dWErWYdzpQYZ4DI1c2n1KY32GsxPvieZ3a5\nK7e2WernA5231D70Fxx9Uw+Jk7XJ535Hhiyb28yd/0A4ReHq/Lro8SNvWib3RqCK\nLvHmYCos4oy+Gf2wUIHBximCwhBukqc1gRFLnr5x7W/+b6bvPfDXwvG2cjymjJPo\nNuuP+DD6AOIqOl4CxIVXblayoFYEd9gkx2bJwiGBiuw19bOm/9rete4ZqwTjiVTi\nbMV18I2K1+Bi1+uQbwSpVEr/JS3LZYQbaNBylw9jh5bGuwjK24WnpWq+jNa6amTK\namlQDB6dAgMBAAECggEAN8WVOoyCIpFtlUtin0VOPDcX3caueZHUxnNNjkPbmapD\npuis5pTp8tpDayMFtaEqVSUhEHQ2v+9A71e9c7Qwu8u4LedfJU0O/7vuO9gplMpk\nIjBVspf8NMqQXrYZrEWnt4uXLFVxaRaCvlUiyX1npOcvKDJHV63QQMALVr7fqVH2\nIoqKCPpz8i38cJpRXP1R2GcCl/c6dVjUFtGCAdu37/wKHwhUl4RE1YGiQ0UUQhaz\n0TLkFpxd2EWu0bYUV09sP99PJ+LjE8OuF9/x386fCnmpdsAa7j+a8bDchIPGfV7I\niqFWOF2aDi2IQgeP8XGzrtw9Yt1frK/mGXpDG8Re7QKBgQDgVzDeQVLtzWXSS0jG\n5FYAbKvDfiuKDE6GTeIbNhIIgifFgrZIOrM3iKtx1YkEkPSzhNGkZhhfKYkGqx+S\nOceoxsNljflfqqTSV+warBkNmmXX5GPTu1heiQfDQRu5Qtb9h9Uo/SoW4NukAfYS\nbuy8Q6R4gOq6iurgu/K/lboxCwKBgQC8Ppt6XjrMBn8DQ3Cc1He3yMV1tENjarq5\n8fAN4hCn3XEgIZnVeWYMPeeOpkOKWi/Cc9DdR/CmEGDtL7wrF78UxCzSkb9oEkhB\nqM7d7c2rTMmoo1DA3KxW1AipAG8SYZr4Y6cODJ9IfTkV+nxPyUtsqfyTdnszrIck\n1h1lpt6H9wKBgHgz35hGshN+yX7bHbyL3dTOZV4S/WszWuO1WWAxIYpzirHWbqrW\n4O3xicMtogPTU3nYwadvmMFsdOIg0IK9+M/i6BFC+AodWcDmoThNXAMg5k6+Lgrl\nx9ynWYRyH1Otj5o6rKkQtPubMbR35IxN6QSazcZPdPXMtzsBGXkz1ZavAoGAarXW\n70xBamz4TUJKsSykXPOcM/gnB1F2Xnguy7/uDyqxuTQy/1edKK1i+XN48BHl5wY+\nTWI9ofXA7FPWCFuiv0Ph4NAsP/O1MDtgYWAv6b5Sxp0l5t5xd5sk+aC8ViAseEgN\naCJxnOcXmETxeU0zy3qlKnbMqmNQDOqvqXMpzMsCgYEAn0vjE21/BWebw0+LX696\nDRqX359omaauctXwxZFVhy20Cx0XqSmGddahvKuJautlElvM1cjD/AD/DRSjLqdF\nAKxWDiatEqHAauLAtCmI8lUtB+qYxq8430ndnhYZrXZmCRGbjyro5hYLaCarGmrr\np89DxblkoUk6YQXanN2Md7k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ze-game@ze-vi-1531877436506.iam.gserviceaccount.com",
+  "client_id": "108707937655047398323",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ze-game%40ze-vi-1531877436506.iam.gserviceaccount.com"
+}
