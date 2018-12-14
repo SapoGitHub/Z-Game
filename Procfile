@@ -1,1 +1,1 @@
-worker: python zevi.py
+worker: python principal.py
