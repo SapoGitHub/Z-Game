@@ -111,7 +111,6 @@ async def on_message(message):
         #Primeiro pegamos o último jogo
         folha = planilha.open("Último.Jogo").sheet1
         nome=str(message.author)                            #Pegamos o nome do membro
-        nome="ZéRomildo#1325"
         for x in range(1,26,3):                             #O localizamos na planilha
             if(nome== folha.cell(1,x).value):
                 coluna=x                                    #A coluna do usuário em questão
